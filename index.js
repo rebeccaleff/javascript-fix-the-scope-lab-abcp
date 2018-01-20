@@ -8,8 +8,7 @@ function myAnimal() {
     return animal
 }
 
-function add2() {
-  var n = Math.floor(Math.random() * 1000)
+function add2(n) {
   return (n + 2)
 }
 
